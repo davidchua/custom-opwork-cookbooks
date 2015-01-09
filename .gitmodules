@@ -1,0 +1,3 @@
+[submodule "chef-mongodb"]
+	path = chef-mongodb
+	url = https://github.com/edelight/chef-mongodb.git
